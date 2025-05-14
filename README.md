@@ -1,1 +1,3 @@
 # odin-project-recipes
+
+This project is aimed towards me understanding basic coding skills in HTML and applying these skills into the recipe project. This projects wants me to create a recipe(s) website, utilizing personal recipes or other recipes found on another website in order to navigate and present different recipes with it's own ingredients and directions. I applied using unordered and ordered listings, paragraphs, headers, and general HTML formatting codings to create the desired project for this activity. Overall, I demonstrated complete familiarity with basic function in HTML, and how its applied to create founding components into the recipe project.
